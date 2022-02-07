@@ -49,7 +49,29 @@ function Navbar() {
           
         </div>
         <div className='top-header'>
-          
+          <div className='maxContain'>
+            <div className='quick-contact'>
+              <p>021 285 0471 <span>info@cableplace.co.za</span></p>
+            </div>
+            <div className='header-social-icons'>
+              <a
+                class='social-icon-link facebook'
+                href='https://www.facebook.com/Cable-Place-106114795084582/'
+                target='_blank'
+                aria-label='Facebook'
+              >
+                <i class='fab fa-facebook-f' />
+              </a>
+              <a
+                class='social-icon-link instagram'
+                href='https://www.instagram.com/cable_place/'
+                target='_blank'
+                aria-label='Instagram'
+              >
+                <i class='fab fa-instagram' />
+              </a>
+            </div>
+          </div>
         </div>
         <nav className='navbar'>
         

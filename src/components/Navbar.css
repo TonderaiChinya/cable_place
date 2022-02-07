@@ -21,6 +21,30 @@
   background: black;
   }
 
+.top-header .maxContain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-header p,span {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #fff;
+  margin-left: 20px;
+}
+
+.header-social-icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-social-icons i {
+  font-size: 1.2rem;
+  margin-right: 20px;
+}
+
 .navbar-container {
   display: flex;
   justify-content: center;
