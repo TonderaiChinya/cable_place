@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-      {/* <section className='footer-subscription'>
+      <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
           Join the Adventure newsletter to receive our best vacation deals
         </p>
@@ -26,11 +26,11 @@ function Footer() {
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>
         </div>
-      </section> */}
-      {/* <figure>
+      </section> 
+      <figure>
         <img src='images/banner.png' className="banner"/>
-      </figure> */}
-      {/* <div class='footer-links'>
+      </figure>
+      <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Quik Links</h2>
@@ -63,7 +63,7 @@ function Footer() {
             <a target='_blank' href='https://twitter.com/Viewsat4/'>Twitter</a>
           </div>
         </div>
-      </div> */}
+      </div>
       <section class='social-media'>
         <div class='social-media-wrap'>
           {/* <div class='footer-logo'>
