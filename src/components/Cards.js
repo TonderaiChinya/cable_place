@@ -46,12 +46,6 @@ function Cards() {
                         label="Motor Vehicle Repair & Servicing"
                         path="/motor_vehicle_repair_and_servicing"
                         />  
-                         {/* <CardItem 
-                        src="images/support.jpg"
-                        text="Signal realignment, Cable fault finding and repairs, Faulty parts replacement, Error fixing and support maintanance."
-                        label=""
-                        path="/support"
-                        />                         */}
                     </ul>
                 </div>
             </div>
