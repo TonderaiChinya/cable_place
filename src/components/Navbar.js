@@ -51,6 +51,7 @@ function Navbar() {
             <p>021 285 0471 <span>info@cableplace.co.za</span></p>
           </div>
           <div className='header-social-icons'>
+            <p>Follow Us</p>
             <a
               class='social-icon-link facebook'
               href='https://www.facebook.com/Cable-Place-106114795084582/'
@@ -91,15 +92,15 @@ function Navbar() {
               </Link>
             </li>
             <li className='nav-item' 
-              onMouseEnter={onMouseEnter}
-              onMouseLeave={onMouseLeave}
+              // onMouseEnter={onMouseEnter}
+              // onMouseLeave={onMouseLeave}
             >
               <Link
-                to='/services'
+                to='/'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Company <i className='fas fa-caret-down' />
+                Company 
               </Link>
               {/* {dropdown && <Dropdown/>} */}
             </li>
