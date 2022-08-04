@@ -8,10 +8,8 @@ function HeroSection() {
         <div className='hero-container'>
             {/* <video src="/videos/viewsat_video.mp4" autoPlay loop muted /> */}
             <div className='maxContain'>
-            <h1>Automotive Cable Manufacturing & Repair. </h1>
-            <h2>Clutch Cable, Hand Brake Cable, Gear Selector Cable, 
-            Accelerator Cable, Balustrade Wire Rope, 
-            Window Mechanisms... & many more</h2>
+            <h1>Automotive Cable Manufacturing & Repairing Company In Cape Town, South Africa. </h1>
+            
             <p>
             Your Leading Automotive Cable Manufacture & Repair Company. 
             We take pride in offering the latest technology and resources available 

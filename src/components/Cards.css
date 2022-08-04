@@ -3,7 +3,7 @@
     background: #fff;
   }
   
-  h1 {
+  h1,h2 {
     text-align: center;
   }
   
@@ -11,8 +11,6 @@
     display: flex;
     flex-flow: column;
     align-items: center;
-    max-width: 1120px;
-    width: 90%;
     margin: 0 auto;
   }
   

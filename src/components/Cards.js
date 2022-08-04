@@ -7,22 +7,27 @@ function Cards() {
     return (
         <div className='cards maxContain'>
             <h2>
-            Cable Place is one of the fastest growing Automotive 
-            Cable Manufacturing, Reconditioning & Repairing 
-            Company in Cape Town.
+                The fastest growing Automotive 
+                Cable Manufacturing, Reconditioning & Repairing 
+                Company in Cape Town.
             </h2>
+            <p>
+                We specialize in repairing & manufacturing of Clutch Cables, Hand Brake / Stop Cables, Gear Selector Cables, 
+                Accelerator Cables, supply of Balustrade Wire Rope & fitting components, 
+                Window Mechanisms repairs.
+            </p>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/clutch_and_brake_cables.png"
+                        src="images/cables.jpeg"
                         text="Repairing & manufacturing of Clutch Cables, Hand Brake Cables, 
                         Gear Selector Cables, Accelerator Cables...And many more."
                         label="Automotive Cable Services"
                         path="/automotive_cable_services"
                         />
                         <CardItem 
-                        src="images/balustrade_cables_or_wire_ropes.png"
+                        src="images/balustrade2.jpeg"
                         text="We design, manufacture and install stainless steel wire rope 
                         ballustrades."
                         label="Balustrade Services"
@@ -33,7 +38,7 @@ function Cards() {
                     <ul className="cards__items">
                         
                         <CardItem 
-                        src="images/window_mechanism.png"
+                        src="images/window_mechanism.jpeg"
                         text="Do you have a broken window mechanism? Bring it 
                         to us for a quick fix."
                         label="Window Mechanism Repairs"

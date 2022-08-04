@@ -15,7 +15,29 @@ function Home (props) {
                     </figure>
                 </div>
             </section>
-            {/* <Cards /> */}
+            <Cards />
+            <section className='maxContain why-choose-us'>
+                <h2>Why We Are Trusted By Many</h2>
+                <div className='why-us-container'>
+                    <div className='why-us-item'>
+                    <i className="fa-solid fa-handshake"></i>
+                        <p>something to say</p>
+                    </div>
+                    <div className='why-us-item'>
+                        <i></i>
+                        <p>something to say</p>
+                    </div>
+                    <div className='why-us-item'>
+                        <i></i>
+                        <p>something to say</p>
+                    </div>
+                </div>
+
+            </section>
+            <section className='maxContain reviews'>
+                <h2>Here Is What Some Of Our Clients Have To Say</h2>
+                
+            </section>
         </>
     )
 }

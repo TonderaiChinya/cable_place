@@ -64,38 +64,38 @@ function Footer() {
           </div>
         </div>
       </div>
-      <section class='social-media'>
-        <div class='social-media-wrap'>
+      <section className='social-media'>
+        <div className='social-media-wrap'>
           {/* <div class='footer-logo'>
             <Link to='/' >
               <img src={logo3} className="social-logo" alt="logo" />
             </Link>
           </div> */}
-          <small class='website-rights'>CABLE PLACE © 2021 | All Rights Reserved | Developed by : <a href='https://www.comptecheng.co.za'className='author' target='_blank'>Comptech Engineering</a></small>
-          <div class='social-icons'>
+          <small className='website-rights'>CABLE PLACE © 2021 | All Rights Reserved | Developed by : <a href='https://www.comptecheng.co.za'className='author' target='_blank'>Comptech Engineering</a></small>
+          <div className='social-icons'>
             <a
-              class='social-icon-link facebook'
+              className='social-icon-link facebook'
               href='https://www.facebook.com/Cable-Place-106114795084582/'
               target='_blank'
               aria-label='Facebook'
             >
-              <i class='fab fa-facebook-f' />
+              <i className='fab fa-facebook-f' />
             </a>
             <a
-              class='social-icon-link instagram'
-              href='https://www.instagram.com/cable_place//'
+              className='social-icon-link instagram'
+              href='https://www.instagram.com/cable_place/'
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
+              <i className='fab fa-instagram' />
             </a>
             <a
-              class='social-icon-link whatsapp'
+              className='social-icon-link whatsapp'
               href='https://wa.me/c/27212850471 '
               target='_blank'
               aria-label='Whatsapp'
             >
-              <i class="fab fa-whatsapp" />
+              <i className="fab fa-whatsapp" />
             </a>
             
             {/* <Link
