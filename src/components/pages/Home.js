@@ -21,15 +21,15 @@ function Home (props) {
                 <div className='why-us-container'>
                     <div className='why-us-item'>
                     <i className="fa-solid fa-handshake"></i>
-                        <p>something to say</p>
+                        <p>Quick turn around</p>
                     </div>
                     <div className='why-us-item'>
                         <i></i>
-                        <p>something to say</p>
+                        <p>Satisfaction guaranteed</p>
                     </div>
                     <div className='why-us-item'>
                         <i></i>
-                        <p>something to say</p>
+                        <p>We are professionals</p>
                     </div>
                 </div>
 
