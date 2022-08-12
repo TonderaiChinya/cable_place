@@ -2,6 +2,9 @@ import React from 'react'
 import '../../App.css';
 import HeroSection from '../HeroSection';
 import Cards from '../Cards';
+import ImageSlider from '../ImageSlider';
+import Services from './Services';
+
 
 function Home (props) {
     return (
@@ -15,8 +18,10 @@ function Home (props) {
                     </figure>
                 </div>
             </section>
+            <ImageSlider />
             <Cards />
-            <section className='maxContain why-choose-us'>
+            <Services />
+            {/* <section className='maxContain why-choose-us'>
                 <h2>Why We Are Trusted By Many</h2>
                 <div className='why-us-container'>
                     <div className='why-us-item'>
@@ -37,7 +42,7 @@ function Home (props) {
             <section className='maxContain reviews'>
                 <h2>Here Is What Some Of Our Clients Have To Say</h2>
                 
-            </section>
+            </section> */}
         </>
     )
 }

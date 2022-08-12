@@ -1,0 +1,29 @@
+.imageSlider {
+    max-width: 1120px;
+    margin: 50px auto;
+}
+.slick-slide > div {
+    margin: 0 10px;
+}
+.slick-list {
+    margin: 0 -10px;
+}
+
+.card{
+    border: 1px solid #fff;
+    background: #000;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 300px;
+}
+
+.card-top img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-bottom h1 {
+    font-size: 1rem;
+    color: #fff;
+}

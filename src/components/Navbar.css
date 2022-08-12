@@ -1,5 +1,5 @@
 .navbar {
-  background: rgb(220, 220, 220);
+  background: #ccc;
   height: 150px;
   display: flex;
   flex-direction: column;

@@ -87,43 +87,53 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
 
-            <li className='nav-item'>
+            {/* <li className='nav-item'>
               <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
-            </li>
+            </li> */}
 
             <li className='nav-item' 
               // onMouseEnter={onMouseEnter}
               // onMouseLeave={onMouseLeave}
             >
               <Link
-                to='/'
+                to='/automotive_cable_services'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Company 
+                Cables 
               </Link>
               {/* {dropdown && <Dropdown/>} */}
             </li>
 
             <li className='nav-item' >
               <Link
-                to='/services'
+                to='/balustrade_wire_rope_services'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Services
+                Balustrades
               </Link>
             </li>
 
             <li className='nav-item'>
               <Link
-                to='/products'
+                to='/window_mechanism_repair'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                F.A.Q
+                Window Mechanisms
+              </Link>
+            </li>
+
+            <li className='nav-item'>
+              <Link
+                to='/services'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                Products & Services
               </Link>
             </li>
 

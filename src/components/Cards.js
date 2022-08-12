@@ -11,6 +11,7 @@ function Cards() {
                 Cable Manufacturing, Reconditioning & Repairing 
                 Company in Cape Town.
             </h2>
+            <br></br>
             <p>
                 We specialize in repairing & manufacturing of Clutch Cables, Hand Brake / Stop Cables, Gear Selector Cables, 
                 Accelerator Cables, supply of Balustrade Wire Rope & fitting components, 
@@ -46,7 +47,7 @@ function Cards() {
                         />  
                         <CardItem 
                         src="images/car.jpg"
-                        text="At Cable Place, we also provide motor vehicle mechanical 
+                        text="At Cable Place, we also provide general motor vehicle mechanical 
                         repairs & servicing."
                         label="Motor Vehicle Repair & Servicing"
                         path="/motor_vehicle_repair_and_servicing"
