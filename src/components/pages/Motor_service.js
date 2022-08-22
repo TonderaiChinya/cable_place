@@ -17,19 +17,13 @@ function MotorService () {
             We warranty our work against any defect 
             or workmanship and offer 100% satisfaction for our work.
               <p>
-              Whether you’ve already bought a brand-new TV that needs 
-              a professional installation or want recommendations on 
-              how to create a state-of-the-art home theatre, Viewsat 
-              has the expertise to assist. We can install any brand 
-              and any size TV with ease.
+              For all your major and minor motor vehicles service, tire rotation, braking system maintenance, engine overhaul,
+              clutch replacement, oil change and any other mechanical work, bring your car to us and we will do justice for your car. 
               </p>
               <br/>
               <p>
-              In addition to TV wall mounting, we also provide sound 
-              bar installation to complete your home entertainment 
-              set-up. From tuning your new TV and optimising your 
-              sound system to ensuring your home theatre is laid out 
-              in a comfortable way. 
+              When you book your car for major service with us, you also get free brake pad and hand brake checks. Our professional mechanical team will 
+              advice you on the items that need attention and also recommend you where to get the best parts for your vehicle. Book your car for service today!
               </p>
             </li>
           </ul>
